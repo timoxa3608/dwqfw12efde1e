@@ -1,0 +1,29 @@
+﻿{
+	"version": 1590597624,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/pole.png",
+		"images/grass.png",
+		"images/pomeh.png",
+		"images/stena-sheet0.png",
+		"images/player-sheet0.png",
+		"images/ykrashenia-sheet0.png",
+		"images/ykrashenia-sheet1.png",
+		"images/ykrashenia-sheet2.png",
+		"images/microphone-sheet0.png",
+		"images/black-sheet0.png",
+		"images/load-sheet0.png",
+		"images/load-sheet1.png",
+		"images/up-sheet0.png",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png",
+		"Photon-Javascript_SDK.min.js"
+	]
+}
